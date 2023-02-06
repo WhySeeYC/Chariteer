@@ -1,7 +1,9 @@
 # Chariteer
 
-Chariteer is the platform where talented volunteers meet the most impactful charities.
+Chariteer is the platform where talented volunteers meet impactful charities.
 The Chariteer website has a lot to offer (Stay tuned from Chariteer team's creation) 
+Check out this Medium [blog post](https://medium.com/@london_6354/chariteer-eb6a68b00ec1). 
+Special thanks to TechLab London design training program for this project.
 
 ## Here are some of the features
 
@@ -37,4 +39,4 @@ Present an About page
 ## Our Brand/Design
 Orange/mustard yellow/coral https://i.stack.imgur.com/lFZum.png 
 
-new logo decided 19 Dec 2021
+New logo decided 19 Dec 2021
