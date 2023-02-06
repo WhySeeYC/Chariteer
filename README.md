@@ -7,6 +7,8 @@ Special thanks to TechLab London design training program for this project.
 
 ## Here are some of the features
 
+![Landing page](https://miro.medium.com/v2/resize:fit:1248/format:webp/1*nCZjUg_lskMDb6jKL1LR4A.png)
+
 - On the landing page, there will be buttons for you to choose ‘I’m a volunteer’ or ‘I work in a charity’.
 
 - There will also be a search bar empowered with search tags as promtps to narrow down the the skillsets you would like the volunteer to provide(for the charity) and new activities to try out(for the volunteer). 
